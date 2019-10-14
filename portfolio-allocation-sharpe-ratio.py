@@ -15,12 +15,6 @@ csco = quandl.get('WIKI/CSCO.11', start_date=start, end_date=end)
 ibm = quandl.get('WIKI/IBM.11', start_dat=start, end_date=end)
 amzn = quandl.get('WIKI/IBM.11', start_dat=start, end_date=end)
 
-# Alternatively, can use the provided sample CSV files in case problems arise with quandl 
-# aapl = pd.read_csv('AAPL_CLOSE', index_col='Date', parse_dates=True)
-# csco = pd.read_csv('CISCO_CLOSE', index_col='Date', parse_dates=True)
-# ibm = pd.read_csv('IBM_CLOSE', index_col='Date', parse_dates=True)
-# amzn = pd.read_csv('AMZN_CLOSE', index_col='Date', parse_dates=True)
-
 aapl.to_csv('AAPL_CLOSE')
 csco.to_csv('CISCO_CLOSE')
 ibm.to_csv('IBM_CLOSE')
