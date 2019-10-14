@@ -1,5 +1,5 @@
 # Financial Analysis and Algorithmic Trading using Python
-<p>Work In Progress</p>
+<p>Work In Progress...</p>
 
 ### Files:
 <ol>
