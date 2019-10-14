@@ -1,4 +1,5 @@
 # Financial Analysis and Algorithmic Trading using Python
+## Libraries: Numpy, Pandas, Matplotlib, SciPy
 <p>Work In Progress...</p>
 
 ### Files:
