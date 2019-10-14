@@ -2,6 +2,7 @@ import pandas as pd
 # run pip install quandl
 import quandl
 import matplotlib.pyplot as plt
+plt.show()
 
 
 # Creating a Portfolio
