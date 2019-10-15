@@ -1,3 +1,4 @@
+#%%
 import pandas as pd
 # run pip install quandl
 import quandl

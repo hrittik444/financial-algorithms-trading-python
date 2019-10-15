@@ -1,8 +1,10 @@
+#%%
 ## finding Optimal Portfolio using the Monte Carlo Simulation to randomly allocate weights and compute the best Sharpe Ratio
 
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
+from scipy.optimize import minimize
 get_ipython().run_line_magic('matplotlib', 'inline')
 
 # readin data previously fetched from Quandl
@@ -74,7 +76,7 @@ print('\n')
 # Sharpe Ratio
 sharpe_ratio = expected_return/expected_volatility
 print('Sharpe Ratio')
-print(SR)
+print(sharpe_ratio)
 
 ## running the same algorithm for mltiple random allocations for many portfolio cases
 # say we wanna consider 5000 portfolios  
