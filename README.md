@@ -23,7 +23,8 @@
   <li>
     3-capital-asset-pricing-model.py
     <ul>
-      <li>A program to demonstrate the Capital Asset Pricing Model as a Linear Regression: <img src="http://www.sciweavers.org/tex2img.php?eq=%24%20r_p%28t%29%20%3D%20%5Cbeta_pr_m%28t%29%20%2B%20%5Csum%5Climits_%7Bi%7D%5E%7Bn%7Dw_i%20%5Calpha_i%28t%29%24&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="$ r_p(t) = \beta_pr_m(t) + \sum\limits_{i}^{n}w_i \alpha_i(t)$" width="221" height="43" /></li>
+      <li>A program to demonstrate the Capital Asset Pricing Model as a Linear Regression:</li>
+      <li><img src="http://www.sciweavers.org/tex2img.php?eq=%24%20r_p%28t%29%20%3D%20%5Cbeta_pr_m%28t%29%20%2B%20%5Csum%5Climits_%7Bi%7D%5E%7Bn%7Dw_i%20%5Calpha_i%28t%29%24&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="$ r_p(t) = \beta_pr_m(t) + \sum\limits_{i}^{n}w_i \alpha_i(t)$" width="221" height="43" /></li>
     </ul>
   </li>
 </ol>
