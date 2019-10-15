@@ -5,7 +5,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 get_ipython().run_line_magic('matplotlib', 'inline')
 
-# Download and get Daily Returns
+# readin data previously fetched from Quandl
 aapl = pd.read_csv('AAPL_CLOSE', index_col='Date', parse_dates=True)
 csco = pd.read_csv('CISCO_CLOSE', index_col='Date', parse_dates=True)
 ibm = pd.read_csv('IBM_CLOSE', index_col='Date', parse_dates=True)
