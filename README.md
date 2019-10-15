@@ -2,7 +2,7 @@
 <p>Work In Progress...</p>
 
 ### Files:
-<ol>
+<ul>
   <li>
     1-portfolio-allocation-sharpe-ratio.py
     <ul>
@@ -27,4 +27,4 @@
       <li><img src="http://bit.ly/2J7UzN5" align="center" border="0" alt="$ r_p(t) = \beta_pr_m(t) + \sum\limits_{i}^{n}w_i \alpha_i(t)$" width="221" height="43" /></li>
     </ul>
   </li>
-</ol>
+</ul>
