@@ -1,7 +1,5 @@
 # Financial Analysis and Algorithmic Trading using Python
-<p>Work In Progress...</p>
-<p>Very beginner-friendly. Contains detailed notes and comments</p>
-<p>Pull Requests are welcome!</p>
+<p><em>Work In Progress...</em></p>
 
 ### Files:
 <ul>
