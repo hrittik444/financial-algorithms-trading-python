@@ -64,4 +64,11 @@
       <li>An implementation of the Pairs Trading Algorithm (implemented and run in the Quantopian IDE)</li>
     </ul>
   </li>
+
+  <li>
+    1-2-0-trading-algorithm-bollinger-bands.py
+    <ul>
+      <li>An implementation of the Bollinger Bands Trading Algorithm (implemented and run in the Quantopian IDE)</li>
+    </ul>
+  </li>
 </ol>
