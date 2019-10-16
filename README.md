@@ -27,4 +27,27 @@
       <li>$ r_p(t) = \beta_pr_m(t) + \sum\limits_{i}^{n}w_i \alpha_i(t)$</li>
     </ul>
   </li>
+
+  <li>
+    trading-algorithm-basics-1
+  </li>
+
+  <li>
+    trading-algorithm-basics-2
+  </li>
+
+  <li>
+    trading-algorithm-basics-3
+  </li>
+
+  <li>
+    trading-algorithm-basics-4
+  </li>
+
+  <li>
+    trading-algorithm-basics-5
+    <ul>
+      <li>Simple programs to demonstrate basic built-in functions of the Quantopian Platform</li>
+    </ul>
+  </li>
 </ol>
