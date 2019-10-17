@@ -71,4 +71,11 @@
       <li>An implementation of the Bollinger Bands Trading Algorithm (implemented and run in the Quantopian IDE)</li>
     </ul>
   </li>
+
+  <li>
+    1-3-0-pipelines-research.py
+    <ul>
+      <li>A program to demonstrate Quantopian Pipelines and related concepts - factors, filters, screens, masks and classifiers</li>
+    </ul>
+  </li>
 </ol>
