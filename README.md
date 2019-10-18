@@ -1,4 +1,4 @@
-# Financial Analysis and Algorithmic Trading using Python
+# Quantitative Finance and Algorithmic Trading using Python
 <p><em>Work In Progress...</em></p>
 
 ### Files:
