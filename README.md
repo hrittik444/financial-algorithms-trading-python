@@ -1,7 +1,7 @@
 # Quantitative Finance and Algorithmic Trading using Python
 <p><em>Work In Progress...</em></p>
 
-### 👽Files:
+### 🐍Files:
 <ul>
   <li>
     0-1-portfolio-allocation-sharpe-ratio.py
