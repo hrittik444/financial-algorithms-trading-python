@@ -45,13 +45,6 @@
   </li>
 
   <li>
-    0-8-trading-algorithm-basics-5.py
-    <ul>
-      <li>Simple programs to demonstrate basic built-in functions of the Quantopian Platform (implemented and run in the Quantopian IDE)</li>
-    </ul>
-  </li>
-
-  <li>
     1-1-0-trading-algorithm-pairs-trading-research.py
     <ul>
       <li>A program to calculate the normalized spread between two closely correlated asset(s) and demonstrate the Pairs Trading Algorithm</li>
