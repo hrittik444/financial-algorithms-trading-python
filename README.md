@@ -1,4 +1,4 @@
-# 🐍Quantitative Finance and Algorithmic Trading using Python
+# 🐍Quant Finance and Algorithmic Trading using Python
 <p><em>Work In Progress...</em></p>
 
 ### Some Programs to demonstrate Quantitative Finance and Algorithmic Trading using Python
