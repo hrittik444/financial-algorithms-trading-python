@@ -1,7 +1,9 @@
-# Quantitative Finance and Algorithmic Trading using Python
+# 🐍Quantitative Finance and Algorithmic Trading using Python
 <p><em>Work In Progress...</em></p>
 
-### 🐍Files:
+### Some Programs to demonstrate Quantitative Finance and Algorithmic Trading using Python
+
+#### FILES:
 <ul>
   <li>
     0-1-portfolio-allocation-sharpe-ratio.py
